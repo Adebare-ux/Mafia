@@ -8,17 +8,17 @@ const TESTIMONIALS = [
   },
   {
     stars: "★★★★★",
-    text: "Professional, responsive, and results-driven. Doesn't just add members — builds systems that keep your community alive and engaged long term. A true operator.",
-    initials: "CP",
-    name: "Copper Penguin",
-    role: "DeFi Project · Growth Manager",
+    text: "He improves and increase our social media growth, and we're seeing a 10x increase in our downloads.",
+    initials: "TT",
+    name: "$Trippy Trunkz",
+    role: "Social Media/Growth Manager",
   },
   {
     stars: "★★★★★",
     text: "The African Web3 market is untapped gold. Crypto Mafia knows exactly how to reach this audience and convert them into loyal community members. Highly recommend.",
-    initials: "BD",
-    name: "Baby Dolphin Knight",
-    role: "NFT Project · Project Manager",
+    initials: "RE",
+    name: "$Rescue",
+    role: "Assistant DEV · Growth Manager",
   },
 ];
 

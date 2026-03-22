@@ -8,17 +8,17 @@ const PROJECTS = [
   },
   {
     num: "02",
-    title: "Copper Penguin",
-    role: "Growth Manager",
-    tags: ["Growth", "Raids", "Moderation"],
-    link: "https://t.me/copperpenguinportal",
+    title: "$Trippy Trunkz",
+    role: "Social Media/Growth Manager",
+    tags: ["Growth", "Social Media", "Downloads"],
+    link: "https://t.me/TrippyTrunkz",
   },
   {
     num: "03",
-    title: "Baby Dolphin Knight",
-    role: "Project Manager",
-    tags: ["Operations", "Marketing", "Community"],
-    link: "https://t.me/TheBabyDolphinKnight",
+    title: "$Rescue",
+    role: "Assistant DEV, Growth Manager",
+    tags: ["Growth", "Community", "Development"],
+    link: "https://t.me/Rescue",
   },
 ];
 

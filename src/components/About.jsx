@@ -25,7 +25,7 @@ function About() {
             </div>
             <div className="about__portrait-frame" />
             <div className="about__badge">
-              <div className="about__badge-num">3+</div>
+              <div className="about__badge-num">4+</div>
               <div className="about__badge-label">
                 Years In
                 <br />
@@ -41,13 +41,13 @@ function About() {
               That Thrive
             </h2>
             <blockquote className="about__quote reveal delay-2">
-              "The streets respect results. I don't just grow — I dominate."
+              "The streets respect results. I don't just grow , I dominate."
             </blockquote>
             <p className="reveal delay-3">
-              I'm <strong>Crypto Mafia</strong> — a Telegram Growth Manager,
-              Web3 community architect, Head Raider | Marketing Execution Lead,
-              who turns ghost towns into thriving ecosystems. Every project I
-              touch becomes a movement.
+              I'm <strong>Crypto Mafia</strong> a Telegram Growth Manager, Web3
+              community architect, Head Raider | Marketing Execution Lead, who
+              turns ghost towns into thriving ecosystems. Every project I touch
+              becomes a movement.
             </p>
             <p className="reveal delay-3">
               From early-stage stealth launches to full-scale ecosystem

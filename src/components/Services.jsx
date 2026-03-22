@@ -2,7 +2,7 @@ const SERVICES = [
   {
     num: "01",
     name: "TELEGRAM GROWTH & MANAGEMENT",
-    desc: "End-to-end Telegram ecosystem engineering — setup, organic growth, retention systems, and deep community bonding that outlasts hype cycles.",
+    desc: "End-to-end Telegram ecosystem engineering setup, organic growth, retention systems, and deep community bonding that outlasts hype cycles.",
     tags: ["Telegram", "Growth", "Retention"],
   },
   {

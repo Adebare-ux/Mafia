@@ -24,7 +24,7 @@ function Nav() {
         ))}
       </ul>
       <a href="#contact" className="nav__cta">
-        Hire The Family
+        Hire The Mafia
       </a>
     </nav>
   );

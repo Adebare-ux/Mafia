@@ -21,7 +21,7 @@ function Hero() {
           <div className="hero__title-line3">RUNS WEB3</div>
         </h1>
         <p className="hero__sub">
-          I don't just grow communities — I build{" "}
+          I don't just grow communities, I build{" "}
           <em style={{ fontStyle: "italic", color: "var(--ivory)" }}>
             empires
           </em>
